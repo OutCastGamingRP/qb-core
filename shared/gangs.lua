@@ -26,8 +26,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['ballas'] = {
-		label = 'Ballas',
+	['jdarmy'] = {
+		label = 'JD Army',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
@@ -80,8 +80,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['families'] = {
-		label = 'Families',
+	['autoexotic'] = {
+		label = 'Autoexotic',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
@@ -98,8 +98,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['triads'] = {
-		label = 'Triads',
+	['ocg'] = {
+		label = 'OCG',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
